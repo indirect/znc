@@ -1,1 +1,1 @@
-znc: ./znc --foreground --no-color --datadir $PWD/.znc
+znc: ./start.sh
